@@ -6,7 +6,7 @@
     "BaseURL": "https://github.com/CloudLabs-MOC/AZ-104-MicrosoftAzureAdministrator/tree/master",
     "Files": [
       {
-        "RawFilePath": "https://github.com/CloudLabs-MOC/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_04-Implement_Virtual_Networking.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-104-MicrosoftAzureAdministrator/master/Instructions/Labs/LAB_04-Implement_Virtual_Networking.md",
         "Order": 1
       },
     ]
